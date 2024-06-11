@@ -3,4 +3,9 @@ I´m a software development student
 
 Use to code: 
 
-JAVASCRIPT, JAVA, TYPESCRIPT, GIT, VUSIAL STUDIO, POSTMAN 
+- JAVASCRIPT
+- JAVA
+- TYPESCRIPT
+- GIT
+- VUSIAL STUDIO
+- POSTMAN 
