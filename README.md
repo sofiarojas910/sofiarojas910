@@ -1,11 +1,10 @@
 # Hi, I´m Sofia Rojas 
-I´m a software development student 
+I´m a software development  
 
 Use to code: 
 
 - JAVASCRIPT
 - JAVA
-- TYPESCRIPT
 - GIT
 - NODEJS
 - EXPRESS
