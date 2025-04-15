@@ -1,12 +1,4 @@
-# Hi, I´m Sofia Rojas 
-I´m a software development  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofiarojas910&show_icons=true&theme=tokyonight&count_private=true)
 
-Use to code: 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiarojas910&layout=compact&theme=tokyonight)
 
-- JAVASCRIPT
-- JAVA
-- GIT
-- NODEJS
-- EXPRESS
-- VISUAL STUDIO
-- POSTMAN 
