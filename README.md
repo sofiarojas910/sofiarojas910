@@ -8,15 +8,12 @@ I'm a backend developer with a strong foundation in software development and a p
 - **Languages:** JavaScript, TypeScript, Java, HTML, CSS
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **Backend:** Node.js, Express.js
-- **Cloud & DevOps:** Amazon S3, Supabase, Stripe Webhooks, JWT
-- **Other:** Git, REST APIs, Two-Factor Authentication, Vimeo Integration
 
 ## 📌 Notable Projects
 
 ### [Arqademy](https://arqademy.com.mx)
 _E-learning platform backend development_
 - Scalable API development (auth, courses, payments)
-- Stripe integration for payments and webhooks
 - Media storage (Amazon S3) + video streaming (Vimeo)
 - PostgreSQL & Supabase DB design and implementation
 
