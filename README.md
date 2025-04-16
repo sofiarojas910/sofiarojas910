@@ -1,10 +1,6 @@
 # 👋 Hi there, I'm Ana Sofia Rojas
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofiarojas910&theme=tokyonight)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiarojas910&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-[![Ana Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiarojas910&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 I'm a backend developer with a strong foundation in software development and a passion for creating scalable, secure, and high-performing systems. I specialize in building RESTful APIs, integrating payment systems, and working with cloud storage and relational databases.
 
