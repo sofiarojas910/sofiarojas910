@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Ana Sofia Rojas
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofiarojas910&theme=tokyonight)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofiarojas910&theme=tokyonight)](https://git.io/streak-stats)
 
 I'm a backend developer with a strong foundation in software development and a passion for creating scalable, secure, and high-performing systems. I specialize in building RESTful APIs, integrating payment systems, and working with cloud storage and relational databases.
 
