@@ -24,7 +24,7 @@ _Business management and inventory control platform_
 
 > 🔒 Most of my repositories are private or collaborative, but feel free to reach out if you'd like to learn more about my work!
 
-## 📫 Let's Connect
+## 📫 Let's connect
 - 📧 anasofiarojas910@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/ana-sofia-rojas-465421272)  
 
